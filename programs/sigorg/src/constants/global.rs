@@ -1,0 +1,4 @@
+pub const MEMBER_TOKENS_DECIMALS: u8 = 8;
+pub const TEAM_TOKENS_DECIMALS: u8 = 0;
+
+pub const ORGANIZATION_VAULT_FUND: u64 = 100000000; // 0.1 SOL
